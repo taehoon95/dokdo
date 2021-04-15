@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+.container{
+	width: 850px;
+	margin: 0px auto;
+}
+.img{
+	padding-top: 20px;
+}
+.img img{
+	display: inline-block;
+	width: 200px;
+	height: 130px;
+}

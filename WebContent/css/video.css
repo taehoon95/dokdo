@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+iframe{
+	display: block;
+	width: 480px;
+	height: 270px;
+	margin-bottom: 30px;
+}
+.video video{
+	display: block;
+	width: 480px;
+	height: 270px;
+	margin-bottom: 30px;
+}
+
+.video p{
+	font-weight:bold;
+	border-left: 4px solid #D88144;
+	padding-left: 6px;
+}
+
+.container{
+	width: 480px;
+	margin: 0px auto;
+}

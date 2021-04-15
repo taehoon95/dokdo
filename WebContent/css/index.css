@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+/* section */
+.main{
+	display: block;
+	margin: 0 auto;
+	width: 640px;
+	height: 500px;
+}
+
+section{
+	padding-top: 20px;
+}
+

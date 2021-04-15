@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+body{
+	margin: 0px auto;
+	padding: 0px;
+	color:#07080A;
+}
+header{
+	text-align: center;
+}
+
+header > img{
+	width: 45px;
+	display: inline;
+	margin-right: 10px;
+}
+h1{
+	display: inline;
+	text-align: center;
+}
+
+
+nav{
+	border-top: 3px solid #799DB9;
+	border-bottom: 3px solid #799DB9;
+	margin: 20px auto;
+	text-align: center;
+}
+
+
+nav ul li{
+	display: inline;
+	list-style: none;
+}
+
+a:hover{
+	color: red;
+}
+
+a{
+	padding:0px 80px;
+	font-weight: bold;
+	text-decoration : none;
+	color:#07080A;
+}
